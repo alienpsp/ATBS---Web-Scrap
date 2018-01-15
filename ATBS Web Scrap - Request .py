@@ -19,7 +19,8 @@ print('The article is ' + str(len(rs.text)) + ' words long.')
 pyFile = open('RJ.txt', 'wb') #wb means write binary
 for chunk in rs.iter_content(100000):
 	pyFile.write(chunk)
-	pyFile.close()
+
+pyFile.close()
 
 
 '''
