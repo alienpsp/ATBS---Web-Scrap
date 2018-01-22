@@ -2,7 +2,7 @@
 
 Automate The Boring Stuff (ATBS) - Web-Scrap is a new repo for me to learn and practice on GitHub familiarization and Python web scraping from ATBS by Al Swegart.
 
-This repo covers 3 python module example from ATBS - Requests, BeautifulSoup4, Selenium
+This repo covers 3 python module example from ATBS - Requests & BeautifulSoup4
 
 
 Requests
