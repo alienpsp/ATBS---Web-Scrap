@@ -27,9 +27,9 @@ Example one shows how I take an url and with requests module and selecting the c
 Example two shows the same concept, the only difference is I scrap multipage pages in a go, on the beginning of example2, I make a library to store the details.
 
 From there, I created 3 functions,
-1 Scrap the price from the targeted url
-2 Scrap the title from the targeted url
-3 Retrieve both data from the functions above and print it out in a string
+- Scrap the price from the targeted url
+- Scrap the title from the targeted url
+- Retrieve both data from the functions above and print it out in a string
 
 This automation will shorten your time for you to get similar data over multiple site, for example if you are constantly retrieving price list or inventory update from tens or hundreds of pages.
 
